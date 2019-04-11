@@ -20,8 +20,8 @@ sudo docker-compose build
 sudo docker-compose up
 ```
 
-After you run the command above you should be able to access http://localhost
-and https://localhost
+After you run the command above you should be able to access [http localhost](http://localhost)
+and [https localhost](https://localhost)
 
 
 Alternatively you can directly download the Dockerfile and the php.ini to build
